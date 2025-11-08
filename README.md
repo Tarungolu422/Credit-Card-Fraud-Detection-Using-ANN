@@ -1,5 +1,6 @@
 # 💳 Explainable ANN: Credit Card Fraud Detection
-
+## Portfolio
+🌐 **Portfolio:** https://tarungolu422.github.io/tarungolu-portfolio/
 !![App Screenshot](screenshots/ui_screen.png)
 
 
@@ -87,13 +88,6 @@ Simple explanation of ANN workflow: Input → Hidden Layers → Output → Evalu
 - Add **model drift monitoring (MLOps)**  
 - Deploy on **Streamlit Cloud / Hugging Face Spaces**
 
----
-
-## 🌐 Live Demo & Portfolio
-🌐 **Portfolio:** https://tarungolu422.github.io/tarungolu-portfolio/
-💻 **GitHub Repository:** https://github.com/Tarungolu422/Credit-Card-Fraud-Detection-Using-ANN
-
----
 
 ## 👨‍💻 Author
 **Tarun Kumar Rathore**  
